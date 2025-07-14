@@ -11,7 +11,7 @@ ByteCart has experienced a decline in customer retention, with fewer users makin
 
 ---
 
-### 3️⃣ Business Objectives
+### 3️⃣ 🎯 Business Objectives
 
 This project aims to address ByteCart’s retention challenges through targeted analysis of customer data. The key objectives are:
 
