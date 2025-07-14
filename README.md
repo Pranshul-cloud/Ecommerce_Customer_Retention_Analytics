@@ -18,3 +18,22 @@ This project aims to address ByteCart’s retention challenges through targeted 
 - Identify the key drivers behind the decrease in retention rate  
 - Analyze behavioral and demographic factors contributing to increasing customer churn percentage  
 - Quantify the financial impact of churn on overall revenue and customer lifetime value
+
+- ---
+
+### 4️⃣ 📂 Dataset Overview
+
+**Key columns:**
+- `Customer_ID`: Unique identifier for each customer  
+- `Product_ID`: Product most frequently associated with the customer  
+- `Transaction_ID`: Reference to recent transaction  
+- `Purchase_Frequency`: Number of purchases over a set period  
+- `Average_Order_Value`: Mean value of a customer's orders  
+- `Time_Between_Purchases`: Average gap between purchases  
+- `Churn_Probability`: Likelihood of churn (0 to 1 scale)  
+- `Lifetime_Value`: Total estimated revenue a customer will generate  
+- `Region`, `Season`, `Preferred_Purchase_Times`: Behavioral and demographic segmentation fields  
+- `Retention_Strategy`: Strategy (if any) currently assigned to retain that customer
+
+  
+**Data Source:** [Kaggle – Customer Retention Dataset](https://www.kaggle.com/your-kaggle-link-here)
