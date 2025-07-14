@@ -1,1 +1,1 @@
-# Ecommerce_Customer_Retention_Analytics
+# Ecommerce Customer Retention Analytics-Loyalty ,Churn and Revenure Impact Project
