@@ -41,3 +41,12 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
 ---
 
+### 5️⃣ 🛠️ Tools & Techniques Used
+
+This project integrates both technical and business-oriented tools to uncover customer retention patterns and revenue impact:
+
+- **Excel** – For data cleaning, formatting, and creation of calculated columns  
+- **SQL** – Used for churn segmentation and filtering of high-risk customer groups  
+- **Power BI** – For data analysis, visual exploration, and insight presentation  
+- **Business Thinking** – To interpret customer behavior, identify value-impacting segments, and design actionable retention strategies
+
