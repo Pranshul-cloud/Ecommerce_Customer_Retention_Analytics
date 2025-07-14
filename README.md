@@ -37,4 +37,7 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
   
 **Data Source:**  
-[Kaggle – Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights) :contentReference[oaicite:1]{index=1}
+[Kaggle – Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights) 
+
+---
+
