@@ -8,3 +8,5 @@ It explores retention patterns, churn risk signals, and revenue impact using beh
  
 ### 2️⃣ ❓ Problem Statement  
 ByteCart has experienced a decline in customer retention, with fewer users making repeat purchases and a rising percentage disengaging shortly after their first transaction. The churn rate has increased notably across key segments, directly affecting average customer lifetime value. This erosion in user loyalty is contributing to decreased revenue and weakening overall profitability — prompting the need for a focused analysis to identify root causes and guide strategic interventions.
+
+---
