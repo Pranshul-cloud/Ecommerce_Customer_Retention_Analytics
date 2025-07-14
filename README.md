@@ -36,4 +36,5 @@ This project aims to address ByteCart’s retention challenges through targeted 
 - `Retention_Strategy`: Strategy (if any) currently assigned to retain that customer
 
   
-**Data Source:** [Kaggle – Customer Retention Dataset](https://www.kaggle.com/your-kaggle-link-here)
+**Data Source:**  
+[Kaggle – Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights) :contentReference[oaicite:1]{index=1}
