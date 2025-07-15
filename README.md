@@ -66,7 +66,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-#### 📁 Segment 1: retention_stratergy_impact
+#### 📁 Segment 1: retention_strategy_impact
 
 **Purpose:** Evaluate how different retention strategies are performing by comparing churn rates and customer value across segments.
 
@@ -74,7 +74,7 @@ This is the unified behavioral and transactional database used across all analys
 - **Metrics:** Customer Count, Avg. Lifetime Value  
 - **Strategic Angle:** Helps identify low-performing retention programs that may need revamp or redeployment.
 
-📂 [View Segment → `retention_stratergy_impact.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.2_retention_strategy_impact.csv)
+📂 [View Segment → `retention_strategy_impact.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.2_retention_strategy_impact.csv)
 
 
 
