@@ -74,7 +74,7 @@ This is the unified behavioral and transactional database used across all analys
 - **Metrics:** Customer Count, Avg. Lifetime Value  
 - **Strategic Angle:** Helps identify low-performing retention programs that may need revamp or redeployment.
 
-📂 [View Segment → `churn_by_segment_summary.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_segment_summary.csv)
+📂 [View Segment → `churn_by_segment_summary.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.2_retention_strategy_impact.csv)
 
 
 
