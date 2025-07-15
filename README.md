@@ -1,17 +1,17 @@
 # 📊 E-commerce Customer Retention Analytics: Loyalty, Churn, and Revenue Impact
 
-### 1️⃣ 📌 Project Overview  
+### 1️ 📌 Project Overview  
 This project simulates a real-world business case for **ByteCart**, a fictional e-commerce brand.  
 It explores retention patterns, churn risk signals, and revenue impact using behavioral data — laying the foundation for strategic recommendations to improve customer lifetime value.
 
  ---
  
-### 2️⃣ ❓ Problem Statement  
+### 2️ ❓ Problem Statement  
 ByteCart has experienced a decline in customer retention, with fewer users making repeat purchases and a rising percentage disengaging shortly after their first transaction. The churn rate has increased notably across key segments, directly affecting average customer lifetime value. This erosion in user loyalty is contributing to decreased revenue and weakening overall profitability — prompting the need for a focused analysis to identify root causes and guide strategic interventions.
 
 ---
 
-### 3️⃣ 🎯 Business Objectives
+### 3️ 🎯 Business Objectives
 
 This project aims to address ByteCart’s retention challenges through targeted analysis of customer data. The key objectives are:
 
@@ -21,7 +21,7 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
 - ---
 
-### 4️⃣ 📂 Dataset Overview
+### 4️ 📂 Dataset Overview
 
 **Key columns:**
 - `Customer_ID`: Unique identifier for each customer  
@@ -41,7 +41,7 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
 ---
 
-### 5️⃣ 🛠️ Tools & Techniques Used
+### 5️ 🛠️ Tools & Techniques Used
 
 This project integrates both technical and business-oriented tools to uncover customer retention patterns and revenue impact:
 
@@ -52,7 +52,7 @@ This project integrates both technical and business-oriented tools to uncover cu
 
 - ---
 
-### 6️⃣ 🔽 Strategic Segmentation & Filtering
+### 6️ 🔽 Strategic Segmentation & Filtering
 
 To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
 
@@ -66,7 +66,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-#### 📁 Segment 1: Churn by Retention Strategy
+#### 📁 Segment 1: retention_stratergy_impact
 
 **Purpose:** Evaluate how different retention strategies are performing by comparing churn rates and customer value across segments.
 
@@ -78,7 +78,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-#### 📁 Segment 2: Churn by Region & Behavioral Patterns
+#### 📁 Segment 2: Churn by segments
 
 **Purpose:** Identify specific geographic and behavioral patterns driving elevated churn levels.
 
