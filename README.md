@@ -62,7 +62,7 @@ To enable focused and actionable insights, the customer dataset was segmented in
 
 This is the unified behavioral and transactional database used across all analyses. It captures customer activity patterns, value estimates, and segment traits, forming the foundation for downstream churn analytics and financial risk modeling.
 
-📂 [View Dataset → `customer_retention_data.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/customer_retention_data.csv)
+📂 [View Dataset → `customer_retention_data.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.1_customer_retention_raw.csv)
 
 
 
