@@ -1,0 +1,192 @@
+CHURN_FLAG,REGION,MOST_FREQUENT_CATEGORY,SEASON,CUSTOMER_COUNT
+Medium,Europe,Electronics,Summer,8
+Low,Europe,Clothing,Spring,7
+Low,Asia,Electronics,Summer,9
+High,Asia,Clothing,Summer,8
+Low,"North America",Sports,Fall,10
+Medium,"North America",Clothing,Winter,8
+Low,"North America",Home,Winter,13
+Medium,"North America",Home,Fall,9
+Low,Europe,Home,Spring,14
+Low,Europe,Clothing,Fall,18
+Low,Europe,Electronics,Fall,13
+High,Europe,Electronics,Fall,8
+High,Europe,Sports,Winter,6
+High,Europe,Electronics,Spring,2
+Medium,"North America",Sports,Fall,3
+Low,"North America",Sports,Spring,7
+Low,Europe,Home,Winter,15
+High,Europe,Home,Summer,4
+Low,Asia,Clothing,Winter,19
+Low,Asia,Clothing,Fall,12
+Low,"South America",Home,Spring,12
+High,"South America",Home,Summer,4
+Medium,Europe,Clothing,Spring,11
+Medium,Europe,Clothing,Fall,6
+Low,"South America",Sports,Winter,10
+Medium,"South America",Sports,Spring,9
+High,"North America",Electronics,Fall,4
+Low,"North America",Electronics,Spring,13
+Low,Europe,Electronics,Winter,14
+High,Europe,Electronics,Winter,7
+Medium,"South America",Electronics,Fall,8
+Low,"South America",Electronics,Fall,18
+Medium,"North America",Clothing,Summer,7
+Medium,"North America",Clothing,Fall,9
+High,"South America",Sports,Winter,7
+Medium,"South America",Sports,Winter,2
+Medium,"South America",Electronics,Spring,6
+Medium,"North America",Electronics,Fall,8
+Medium,"North America",Electronics,Winter,14
+Low,"South America",Clothing,Spring,13
+High,Asia,Sports,Winter,8
+High,"South America",Clothing,Fall,6
+Low,"South America",Clothing,Fall,16
+Low,"North America",Clothing,Summer,7
+Low,Asia,Home,Winter,14
+High,Asia,Home,Winter,6
+Medium,"North America",Home,Summer,5
+Low,"North America",Home,Summer,6
+Medium,"North America",Sports,Summer,2
+Low,"North America",Sports,Summer,11
+High,"North America",Clothing,Winter,8
+Low,"North America",Clothing,Winter,3
+Medium,Europe,Clothing,Summer,10
+Low,Europe,Clothing,Summer,13
+Low,"South America",Home,Fall,14
+Low,Europe,Electronics,Spring,9
+Low,Asia,Electronics,Winter,11
+Medium,Asia,Electronics,Winter,6
+Low,"North America",Sports,Winter,7
+Medium,"South America",Clothing,Spring,4
+Low,Asia,Sports,Fall,9
+Low,"South America",Electronics,Summer,8
+High,"South America",Electronics,Summer,2
+Low,"North America",Electronics,Winter,19
+Low,Europe,Home,Summer,11
+Low,Asia,Clothing,Spring,9
+Medium,"South America",Home,Winter,4
+High,"South America",Home,Winter,4
+Low,Asia,Home,Spring,8
+High,Asia,Home,Spring,5
+Medium,"South America",Electronics,Summer,10
+Medium,Asia,Electronics,Summer,5
+Low,Asia,Electronics,Spring,13
+Low,"North America",Electronics,Fall,13
+Low,"North America",Home,Spring,9
+High,Asia,Home,Fall,5
+High,Asia,Clothing,Fall,13
+Low,Europe,Sports,Fall,19
+High,"South America",Clothing,Spring,7
+Medium,Asia,Clothing,Spring,9
+Medium,"South America",Home,Spring,7
+Low,"South America",Home,Summer,11
+Low,"South America",Sports,Spring,9
+High,"South America",Sports,Fall,8
+Medium,Asia,Sports,Winter,6
+High,Europe,Sports,Spring,5
+Low,Europe,Sports,Winter,11
+Low,Europe,Sports,Spring,13
+High,Europe,Sports,Fall,12
+Medium,"South America",Electronics,Winter,12
+Low,"South America",Clothing,Winter,13
+Low,Asia,Home,Summer,9
+High,"South America",Sports,Summer,6
+High,"South America",Electronics,Spring,4
+Medium,Europe,Sports,Summer,10
+Medium,"North America",Electronics,Summer,8
+Medium,Asia,Clothing,Winter,8
+Low,Asia,Clothing,Summer,12
+High,Europe,Clothing,Spring,14
+Low,Europe,Clothing,Winter,11
+High,"South America",Clothing,Summer,5
+Medium,Asia,Home,Fall,4
+Low,Europe,Sports,Summer,17
+High,Asia,Clothing,Winter,7
+Low,Asia,Sports,Winter,15
+Medium,Europe,Home,Winter,7
+High,Europe,Home,Winter,4
+High,Asia,Electronics,Winter,6
+Medium,"North America",Home,Winter,9
+Medium,"South America",Home,Summer,6
+High,"South America",Home,Fall,8
+Low,"South America",Electronics,Winter,10
+Medium,Asia,Sports,Fall,12
+Medium,"South America",Home,Fall,12
+Medium,Asia,Home,Winter,4
+Medium,Asia,Sports,Summer,9
+Low,Asia,Sports,Summer,9
+Medium,Europe,Home,Summer,8
+Low,"South America",Clothing,Summer,9
+High,Europe,Clothing,Fall,3
+Low,Europe,Home,Fall,17
+Low,"North America",Home,Fall,12
+High,Europe,Clothing,Winter,4
+Low,"South America",Electronics,Spring,11
+Low,"South America",Sports,Summer,7
+High,"North America",Electronics,Summer,3
+High,"North America",Home,Fall,6
+Medium,Asia,Home,Spring,4
+Medium,"South America",Clothing,Fall,8
+High,"South America",Electronics,Winter,6
+Medium,Europe,Sports,Winter,6
+High,"North America",Home,Summer,4
+High,Asia,Electronics,Summer,4
+Low,"North America",Clothing,Fall,13
+Low,Europe,Electronics,Summer,9
+Medium,"South America",Sports,Summer,3
+Medium,Europe,Electronics,Spring,6
+High,Asia,Sports,Spring,4
+Medium,Europe,Clothing,Winter,6
+High,Europe,Sports,Summer,6
+High,"North America",Sports,Fall,7
+Low,"South America",Sports,Fall,5
+Medium,Asia,Clothing,Fall,4
+Low,"North America",Clothing,Spring,9
+Low,"North America",Electronics,Summer,13
+High,Europe,Home,Fall,4
+Medium,"South America",Sports,Fall,3
+Medium,Asia,Clothing,Summer,8
+High,"South America",Electronics,Fall,5
+High,Europe,Home,Spring,3
+Low,Asia,Home,Fall,3
+Low,Asia,Sports,Spring,7
+Medium,Asia,Sports,Spring,4
+Low,Asia,Electronics,Fall,7
+Medium,"North America",Home,Spring,7
+Medium,"North America",Electronics,Spring,7
+Medium,Asia,Electronics,Fall,8
+High,Asia,Electronics,Fall,4
+High,"South America",Home,Spring,7
+High,"South America",Sports,Spring,3
+High,"North America",Clothing,Summer,4
+Medium,Asia,Electronics,Spring,9
+Medium,"North America",Sports,Winter,2
+High,Asia,Sports,Summer,10
+High,"North America",Clothing,Spring,6
+High,"North America",Clothing,Fall,3
+High,Europe,Electronics,Summer,4
+Medium,Asia,Home,Summer,3
+Medium,"South America",Clothing,Winter,9
+High,Asia,Sports,Fall,6
+High,Europe,Clothing,Summer,2
+Low,"South America",Home,Winter,8
+Medium,"North America",Clothing,Spring,7
+High,"North America",Electronics,Winter,10
+Medium,Europe,Electronics,Winter,10
+Medium,"South America",Clothing,Summer,8
+Medium,Europe,Sports,Spring,5
+High,"North America",Home,Winter,3
+Medium,Europe,Electronics,Fall,3
+Medium,Europe,Sports,Fall,5
+High,Asia,Clothing,Spring,4
+Medium,"North America",Sports,Spring,2
+Medium,Europe,Home,Spring,4
+Medium,Europe,Home,Fall,4
+High,"North America",Sports,Winter,5
+High,"North America",Home,Spring,5
+High,"North America",Electronics,Spring,6
+High,Asia,Electronics,Spring,6
+High,"North America",Sports,Spring,4
+High,"South America",Clothing,Winter,3
+High,Asia,Home,Summer,1
