@@ -52,7 +52,7 @@ This project integrates both technical and business-oriented tools to uncover cu
 
 - ---
 
-### 6️⃣ Strategic Segmentation & Risk Filtering
+### 6️⃣ 🔽 Strategic Segmentation & Filtering
 
 To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
 
