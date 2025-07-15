@@ -86,7 +86,7 @@ This is the unified behavioral and transactional database used across all analys
 - **Metric:** Customer Count  
 - **Strategic Angle:** Enables geographic or seasonal targeting of loyalty campaigns and behavioral nudges.
 
-📂 [View Segment → `churn_by_region_and_category.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_region_and_category.csv)
+📂 [View Segment → `churn_by_region_and_category.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.3_churn_by_segments.csv)
 
 
 
