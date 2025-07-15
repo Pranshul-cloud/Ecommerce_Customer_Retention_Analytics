@@ -50,3 +50,51 @@ This project integrates both technical and business-oriented tools to uncover cu
 - **Power BI** – For data analysis, visual exploration, and insight presentation  
 - **Business Thinking** – To interpret customer behavior, identify value-impacting segments, and design actionable retention strategies
 
+- ---
+
+6️⃣ Customer Segmentation & Filtering
+To support targeted retention analysis, the raw behavioral dataset was systematically segmented into focused analytical views — each aligned with a specific business objective. This approach ensures clean separation of insight layers and facilitates clearer storytelling for decision-makers.
+
+🔹 Source Dataset: customer_retention_data
+The full dataset includes behavioral, transactional, and demographic attributes for ByteCart’s customer base. It serves as the single source of truth for all downstream analytics.
+
+Fields of Interest:
+Customer_ID, Purchase_Frequency, Average_Order_Value, Time_Between_Purchases, Churn_Probability, Lifetime_Value, Region, Season, Most_Frequent_Category, Retention_Strategy
+
+Download: customer_retention_data.csv
+
+📁 Segment 1: Churn by Retention Strategy
+Purpose: Evaluate the relative performance of existing retention strategies by comparing churn rates and customer value across groups.
+
+Key Dimensions: Retention_Strategy, Churn_Flag
+
+Metrics: Customer_Count, Avg_Lifetime_Value
+
+Strategic Angle: Identifies underperforming strategies that may need redesign or reallocation of resources.
+
+View Dataset → churn_by_segment_summary.csv
+
+📁 Segment 2: Churn by Region & Behavioral Patterns
+Purpose: Detect geographic, seasonal, and behavioral clusters with elevated churn risk.
+
+Key Dimensions: Region, Most_Frequent_Category, Season, Churn_Flag
+
+Metric: Customer_Count
+
+Strategic Angle: Enables ByteCart to localize churn mitigation strategies and tailor messaging based on consumer behavior and timing.
+
+View Dataset → churn_by_region_and_category.csv
+
+📁 Segment 3: Revenue at Risk
+Purpose: Quantify potential financial exposure from customers most likely to churn.
+
+Fields: Customer_ID, Lifetime_Value, Churn_Probability, Revenue_at_Risk
+
+Calculation: Revenue_at_Risk = Lifetime_Value × Churn_Probability
+
+Strategic Angle: Prioritizes high-value accounts for proactive retention efforts, ensuring better ROI on loyalty programs.
+
+View Dataset → revenue_at_risk.csv
+
+
+
