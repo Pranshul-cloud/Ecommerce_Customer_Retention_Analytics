@@ -56,7 +56,7 @@ This project integrates both technical and business-oriented tools to uncover cu
 
 To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
 
----
+
 
 🔹 **Source Dataset:** `customer_retention_data`
 
@@ -64,7 +64,7 @@ This is the unified behavioral and transactional database used across all analys
 
 📂 [View Dataset → `customer_retention_data.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/customer_retention_data.csv)
 
----
+
 
 #### 📁 Segment 1: Churn by Retention Strategy
 
@@ -76,7 +76,7 @@ This is the unified behavioral and transactional database used across all analys
 
 📂 [View Segment → `churn_by_segment_summary.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_segment_summary.csv)
 
----
+
 
 #### 📁 Segment 2: Churn by Region & Behavioral Patterns
 
@@ -88,7 +88,7 @@ This is the unified behavioral and transactional database used across all analys
 
 📂 [View Segment → `churn_by_region_and_category.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_region_and_category.csv)
 
----
+
 
 #### 📁 Segment 3: Revenue at Risk
 
