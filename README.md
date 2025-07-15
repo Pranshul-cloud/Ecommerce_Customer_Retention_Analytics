@@ -74,7 +74,7 @@ This is the unified behavioral and transactional database used across all analys
 - **Metrics:** Customer Count, Avg. Lifetime Value  
 - **Strategic Angle:** Helps identify low-performing retention programs that may need revamp or redeployment.
 
-📂 [View Segment → `churn_by_segment_summary.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.2_retention_strategy_impact.csv)
+📂 [View Segment → `retention_stratergy_impact.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.2_retention_strategy_impact.csv)
 
 
 
@@ -86,7 +86,7 @@ This is the unified behavioral and transactional database used across all analys
 - **Metric:** Customer Count  
 - **Strategic Angle:** Enables geographic or seasonal targeting of loyalty campaigns and behavioral nudges.
 
-📂 [View Segment → `churn_by_region_and_category.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.3_churn_by_segments.csv)
+📂 [View Segment → `churn_by_segments.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.3_churn_by_segments.csv)
 
 
 
