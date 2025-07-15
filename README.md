@@ -98,4 +98,4 @@ This is the unified behavioral and transactional database used across all analys
 - **Formula Applied:** `Revenue at Risk = Lifetime Value × Churn Probability`  
 - **Strategic Angle:** Prioritizes high-value churn-risk customers for retention focus to protect revenue.
 
-📂 [View Segment → `revenue_at_risk.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/revenue_at_risk.csv)
+📂 [View Segment → `revenue_at_risk.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.4_revenue_at_risk.csv)
