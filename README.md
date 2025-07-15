@@ -52,49 +52,50 @@ This project integrates both technical and business-oriented tools to uncover cu
 
 - ---
 
-6️⃣ Customer Segmentation & Filtering
-To support targeted retention analysis, the raw behavioral dataset was systematically segmented into focused analytical views — each aligned with a specific business objective. This approach ensures clean separation of insight layers and facilitates clearer storytelling for decision-makers.
+### 6️⃣ Strategic Segmentation & Risk Filtering
 
-🔹 Source Dataset: customer_retention_data
-The full dataset includes behavioral, transactional, and demographic attributes for ByteCart’s customer base. It serves as the single source of truth for all downstream analytics.
+To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
 
-Fields of Interest:
-Customer_ID, Purchase_Frequency, Average_Order_Value, Time_Between_Purchases, Churn_Probability, Lifetime_Value, Region, Season, Most_Frequent_Category, Retention_Strategy
+---
 
-Download: customer_retention_data.csv
+🔹 **Source Dataset:** `customer_retention_data`
 
-📁 Segment 1: Churn by Retention Strategy
-Purpose: Evaluate the relative performance of existing retention strategies by comparing churn rates and customer value across groups.
+This is the unified behavioral and transactional database used across all analyses. It captures customer activity patterns, value estimates, and segment traits, forming the foundation for downstream churn analytics and financial risk modeling.
 
-Key Dimensions: Retention_Strategy, Churn_Flag
+📂 [View Dataset → `customer_retention_data.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/customer_retention_data.csv)
 
-Metrics: Customer_Count, Avg_Lifetime_Value
+---
 
-Strategic Angle: Identifies underperforming strategies that may need redesign or reallocation of resources.
+#### 📁 Segment 1: Churn by Retention Strategy
 
-View Dataset → churn_by_segment_summary.csv
+**Purpose:** Evaluate how different retention strategies are performing by comparing churn rates and customer value across segments.
 
-📁 Segment 2: Churn by Region & Behavioral Patterns
-Purpose: Detect geographic, seasonal, and behavioral clusters with elevated churn risk.
+- **Key Dimensions:** Retention Strategy, Churn Flag  
+- **Metrics:** Customer Count, Avg. Lifetime Value  
+- **Strategic Angle:** Helps identify low-performing retention programs that may need revamp or redeployment.
 
-Key Dimensions: Region, Most_Frequent_Category, Season, Churn_Flag
+📂 [View Segment → `churn_by_segment_summary.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_segment_summary.csv)
 
-Metric: Customer_Count
+---
 
-Strategic Angle: Enables ByteCart to localize churn mitigation strategies and tailor messaging based on consumer behavior and timing.
+#### 📁 Segment 2: Churn by Region & Behavioral Patterns
 
-View Dataset → churn_by_region_and_category.csv
+**Purpose:** Identify specific geographic and behavioral patterns driving elevated churn levels.
 
-📁 Segment 3: Revenue at Risk
-Purpose: Quantify potential financial exposure from customers most likely to churn.
+- **Key Dimensions:** Region, Seasonality, Category Engagement  
+- **Metric:** Customer Count  
+- **Strategic Angle:** Enables geographic or seasonal targeting of loyalty campaigns and behavioral nudges.
 
-Fields: Customer_ID, Lifetime_Value, Churn_Probability, Revenue_at_Risk
+📂 [View Segment → `churn_by_region_and_category.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/churn_by_region_and_category.csv)
 
-Calculation: Revenue_at_Risk = Lifetime_Value × Churn_Probability
+---
 
-Strategic Angle: Prioritizes high-value accounts for proactive retention efforts, ensuring better ROI on loyalty programs.
+#### 📁 Segment 3: Revenue at Risk
 
-View Dataset → revenue_at_risk.csv
+**Purpose:** Quantify potential financial loss based on churn probability and customer lifetime value.
 
+- **Fields Used:** Customer ID, Predicted Churn, Estimated Value  
+- **Formula Applied:** `Revenue at Risk = Lifetime Value × Churn Probability`  
+- **Strategic Angle:** Prioritizes high-value churn-risk customers for retention focus to protect revenue.
 
-
+📂 [View Segment → `revenue_at_risk.csv`](https://github.com/pranshul-bytecart/bytecart-retention/blob/main/data/revenue_at_risk.csv)
