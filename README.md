@@ -171,9 +171,9 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 ## ✅ Recommendations
 
 
-- **Problem:** The discount strategy yields a higher average lifetime value (~₹5,500) compared to the overall average of ₹5,000, yet it remains underleveraged.  
-**Impact:** Retention rate is stuck at 33.33%, indicating missed revenue opportunities and weakened customer loyalty.  
-**Recommendation:** Scale up the discount strategy for high-churn and new customers to drive retention and maximize lifetime value.
+- **Problem-** The discount strategy yields a higher average lifetime value (~₹5,500) compared to the overall average of ₹5,000, yet it remains underleveraged.  
+**Impact-** Retention rate is stuck at 33.33%, indicating missed revenue opportunities and weakened customer loyalty.  
+**Recommendation-** Scale up the discount strategy for high-churn and new customers to drive retention and maximize lifetime value.
 
 - **Problem:** 
 Churn is highest in **South America** (52%) and during **Summer** (52%), especially in **Sports and Clothing** categories — key segments showing early disengagement.  
