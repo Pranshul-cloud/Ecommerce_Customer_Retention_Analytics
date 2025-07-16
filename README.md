@@ -155,6 +155,23 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
   **Impact:** Around **$3.17M** in revenue is at risk, threatening both **cash flow** and **growth stability**.  
   **Recommendation:** Act fast with **tailored retention offers** for **high-risk, high-value customers** to **prevent churn** and **protect key revenue**.
 
+  ---
+
+### 🧱8 GitHub Reposiory Structure
+  📂 data/
+- Contains the core customer dataset used across all analyses.
+
+📂 sql_extraction/
+- Includes all SQL scripts for segmentation, churn identification, and revenue risk modeling.
+
+📂 visuals/
+- Stores all key Power BI/dashboard visuals used for storytelling and decision support.
+
+📄 README.md
+- Complete project walkthrough: background, strategy, insights, KPIs, and recommendations.
+
+---
+
   
 
 
