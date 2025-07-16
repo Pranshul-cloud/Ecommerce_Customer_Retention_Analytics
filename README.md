@@ -112,19 +112,16 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
  ---
 
-### 8 🔍 Insights- Deep Dive
-
-![a](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.2_retention_strategy_impact.png)
 #### 💡 Business Insights
 
-- **Loyalty Rewards** yields **30% lower churn** and **₹1,200 higher LTV** than average.  
-- **Free Shipping** strategy results in the **highest churn rate** and **lowest LTV**.  
-- **Personalized Offers** maintain a **balanced churn** with **moderate LTV gains**.
+- Discount strategy leads to the highest average lifetime value (~₹5.5K).  
+- Loyalty Program shows the lowest lifetime value among retention strategies.  
+- Customers with high retention (low churn) have the highest LTV (~₹5K+).
 
 #### 📊 Key Performance Indicators (KPIs)
 
-- **Average Churn Rate**: 22.6%  
-- **Average Lifetime Value (LTV)**: ₹5,300  
-- **Top Strategy LTV (Loyalty Rewards)**: ₹6,800  
+- **Average Lifetime Value**: ₹5,080.28  
+- **Retention Rate**: 33.33%  
+- **Best Retention Strategy**: Discount  
 
 
