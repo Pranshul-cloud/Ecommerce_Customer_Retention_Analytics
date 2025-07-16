@@ -89,7 +89,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ### 6.1 Retention Strategy Impact
 ![q](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.2_retention_strategy_impact.png)
-####  Business Insights
+#### 💡Business Insights
 
 - Discount strategy leads to the highest average lifetime value (~₹5.5K).  
 - Loyalty Program shows the lowest lifetime value among retention strategies.  
@@ -106,7 +106,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ### 6.2 Customer Churn Segemnts
 - ![b](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.3_customer_churn_segment.png)
-- ##  Business Insights
+- ##  💡Business Insights
 
 - **Sports** and **Clothing** categories have the **highest High Churn** rates.   
 - **South America** has the **highest churn** (30% Medium + 22.97% High).  
@@ -127,7 +127,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ### 6.3 Revenue at Risk
 ![a](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.4_revenue_at_risk.png)
-##  Business Insights
+##  💡Business Insights
 
 - Top 10 customers alone represent a significant chunk of total revenue at risk.  
 - Revenue at risk increases with churn probability — strong upward trend observed.  
