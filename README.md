@@ -144,6 +144,21 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 - **Overall Churn Rate (High + Medium)**: 52.07%  
 - **High Churn Rate Alone**: 23.29%  
 - **Best Performing Season (Retention)**: Fall – 48.89% Low Churn  
-- **Worst Performing Region (Churn)**: South America – 52.03% Churn (High + Medium)  
+- **Worst Performing Region (Churn)**: South America – 52.03% Churn (High + Medium)
+- 
+
+
+## 💡 Business Insights
+
+- Top 10 customers alone represent a significant chunk of total revenue at risk.  
+- Revenue at risk increases with churn probability — strong upward trend observed.  
+- Several customers with churn probability > 0.7 pose immediate financial threat.  
+
+
+## 📊 Key Performance Indicators (KPIs)
+
+- **Total Revenue at Risk**: $3,175,578.48  
+- **High-Risk Customer Definition**: Churn Probability > 0.7  
+  
 
 
