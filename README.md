@@ -114,7 +114,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
  ## 8 Insights- Deep Dive
 
-# 8.1 Retention Strategy Impact
+### 8.1 Retention Strategy Impact
 ![q](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.2_retention_strategy_impact.png)
 #### 💡 Business Insights
 
@@ -131,7 +131,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
  
 ---
 
-
+### 8.3 Customer Churn Segemnts
 - ![b](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.3_customer_churn_segment.png)
 - ## 💡 Business Insights
 
