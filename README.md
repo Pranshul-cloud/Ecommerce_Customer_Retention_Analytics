@@ -112,6 +112,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
  ---
 
+![q](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.2_retention_strategy_impact.png)
 #### 💡 Business Insights
 
 - Discount strategy leads to the highest average lifetime value (~₹5.5K).  
