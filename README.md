@@ -107,5 +107,5 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 📄 [Complete Query File: sql_queries.sql](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/02_data_extraction_sql/sql_queries)
 
-##### Samply Query
+                                   #### Samply Query
  ![Sample Query](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/Screenshot%202025-07-16%20075138.png)
