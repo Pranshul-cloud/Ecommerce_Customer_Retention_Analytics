@@ -1,12 +1,12 @@
-# 📊 E-commerce Customer Retention Analytics: Loyalty, Churn, and Revenue Impact
+#  E-commerce Customer Retention Analytics: Loyalty, Churn, and Revenue Impact
 
-### 1️  Project Background 
+###  🧠1️  Project Background 
 ByteCart, a mid-scale e-commerce brand, is experiencing rising churn and declining repeat purchases, resulting in significant revenue loss and weakened customer loyalty.  
 This project uses SQL-driven segmentation and churn modeling to identify churn patterns, quantify revenue at risk, and evaluate retention strategies, enabling data-backed decisions to improve retention and maximize lifetime value.    
  
 ---
 
-### 2  Exevutive Summary
+###  📝2  Exevutive Summary
 ByteCart faced a churn rate of **52.07%**, with retention stuck at **33.33%**, risking over **$3.17M** in revenue.  
 The **discount strategy** delivered the highest LTV (~₹5.5K) but was underutilized.  
 **South America** and **Summer** showed peak churn (52%+), while **Europe** retained best (51.72% low churn).  
@@ -15,7 +15,7 @@ Targeted interventions are key to lifting retention and protecting high-LTV cust
 
 ---
 
-### 3️  Business Objectives
+### 🎯3️  Business Objectives
 
 This project aims to address ByteCart’s retention challenges through targeted analysis of customer data. The key objectives are:
 
@@ -25,13 +25,13 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
 - ---
 
-### 4 Strategic Segmentation & Filtering
+### 🧩4 Strategic Segmentation & Filtering
 
 To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
 
 
 
-🔹 **Source Dataset:** `customer_retention_data`
+🔹 **📦Source Dataset:** `customer_retention_data`
 
 This is the unified behavioral and transactional database used across all analyses. It captures customer activity patterns, value estimates, and segment traits, forming the foundation for downstream churn analytics and financial risk modeling.
 
@@ -75,7 +75,7 @@ This is the unified behavioral and transactional database used across all analys
 
 ---
 
-### 5 SQL-Driven Data Extraction & Segmentation
+### 🛠5 SQL-Driven Data Extraction & Segmentation
 Purpose: This segment outlines how SQL was used to extract targeted data for churn insights, retention impact analysis, and revenue risk modeling. Structured queries enabled focused filtering, segmentation, and aggregation to align directly with business objectives.
 
 📄 [Complete Query File: sql_queries.sql](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/02_data_extraction_sql/sql_queries)
@@ -85,7 +85,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
  ---
 
- ## 6 Insights- Deep Dive
+ ## 📊6 Insights- Deep Dive
 
 ### 6.1 Retention Strategy Impact
 ![q](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.2_retention_strategy_impact.png)
@@ -141,7 +141,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ---
 
-##  7 Recommendations
+## ✅7 Recommendations
 
 - **Problem:** The **discount strategy** yields a higher average lifetime value (**~₹5,500**) compared to the overall average (**₹5,000**), yet it remains **underleveraged**.  
   **Impact:** Retention rate is stuck at **33.33%**, indicating **missed revenue opportunities** and weakened customer loyalty.  
