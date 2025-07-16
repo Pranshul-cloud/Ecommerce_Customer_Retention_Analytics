@@ -21,37 +21,6 @@ This project aims to address ByteCart’s retention challenges through targeted 
 
 - ---
 
-### 4️ 📂 Dataset Overview
-
-**Key columns:**
-- `Customer_ID`: Unique identifier for each customer  
-- `Product_ID`: Product most frequently associated with the customer  
-- `Transaction_ID`: Reference to recent transaction  
-- `Purchase_Frequency`: Number of purchases over a set period  
-- `Average_Order_Value`: Mean value of a customer's orders  
-- `Time_Between_Purchases`: Average gap between purchases  
-- `Churn_Probability`: Likelihood of churn (0 to 1 scale)  
-- `Lifetime_Value`: Total estimated revenue a customer will generate  
-- `Region`, `Season`, `Preferred_Purchase_Times`: Behavioral and demographic segmentation fields  
-- `Retention_Strategy`: Strategy (if any) currently assigned to retain that customer
-
-  
-**Data Source:**  
-[Kaggle – Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/imranalishahh/sales-and-customer-insights) 
-
----
-
-### 5️ 🛠️ Tools & Techniques Used
-
-This project integrates both technical and business-oriented tools to uncover customer retention patterns and revenue impact:
-
-- **Excel** – For data cleaning, formatting, and creation of calculated columns  
-- **SQL** – Used for churn segmentation and filtering of high-risk customer groups  
-- **Power BI** – For data analysis, visual exploration, and insight presentation  
-- **Business Thinking** – To interpret customer behavior, identify value-impacting segments, and design actionable retention strategies
-
-- ---
-
 ### 6️ 🔽 Strategic Segmentation & Filtering
 
 To enable focused and actionable insights, the customer dataset was segmented into three targeted analytical layers — each aligned with a key business question. This modular structure enhances interpretability, sharpens decision-making, and supports precise retention strategy formulation.
