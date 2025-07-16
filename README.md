@@ -182,6 +182,11 @@ Over half the customers are churning, leading to significant **revenue loss** an
 **Recommendation:** 
 Run **targeted retention campaigns** in South America during Summer, focused on **Sports and Clothing customers**. Use tactics like **personalized discounts**, **loyalty perks**, and **re-engagement offers** to reduce churn and **improve Lifetime Value (LTV)**.
 
+ 
+- **Problem:** Top 10 customers contribute a major chunk of revenue, but several face high churn risk (probability > 0.7).  
+**Impact:** ~$3.17M in revenue is at risk, threatening both cash flow and growth.  
+**Recommendation:** Act fast with tailored retention offers for high-risk, high-value customers to prevent churn and protect key revenue.
+
 
   
 
