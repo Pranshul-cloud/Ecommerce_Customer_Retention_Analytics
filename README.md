@@ -106,7 +106,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ### 6.2 Customer Churn Segemnts
 - ![b](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.3_customer_churn_segment.png)
-- ##  💡Business Insights
+##  💡Business Insights
 
 - **Sports** and **Clothing** categories have the **highest High Churn** rates.   
 - **South America** has the **highest churn** (30% Medium + 22.97% High).  
