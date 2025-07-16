@@ -131,7 +131,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
  
 ---
 
-### 8.3 Customer Churn Segemnts
+### 8.2 Customer Churn Segemnts
 - ![b](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.3_customer_churn_segment.png)
 - ## 💡 Business Insights
 
@@ -152,7 +152,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ---
 
-
+### 8.3 Revenue at Risk
 ![a](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.4_revenue_at_risk.png)
 ## 💡 Business Insights
 
