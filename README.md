@@ -127,7 +127,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 - **Retention Rate**: 33.33%  
 - **Best Retention Strategy**: Discount
 
-- 
+ 
 
 
 
@@ -148,7 +148,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 - **Best Performing Season (Retention)**: Fall – 48.89% Low Churn  
 - **Worst Performing Region (Churn)**: South America – 52.03% Churn (High + Medium)
 
-- 
+  
   
 
 
