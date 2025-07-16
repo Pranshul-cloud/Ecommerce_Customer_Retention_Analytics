@@ -175,6 +175,14 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 **Impact:** Retention rate is stuck at 33.33%, indicating missed revenue opportunities and weakened customer loyalty.  
 **Recommendation:** Scale up the discount strategy for high-churn and new customers to drive retention and maximize lifetime value.
 
+### 2  
+**Problem:** 
+Churn is highest in **South America** (52%) and during **Summer** (52%), especially in **Sports and Clothing** categories — key segments showing early disengagement.  
+**Impact:**
+Over half the customers are churning, leading to significant **revenue loss** and **poor retention** in high-potential categories and regions.  
+**Recommendation:** 
+Run **targeted retention campaigns** in South America during Summer, focused on **Sports and Clothing customers**. Use tactics like **personalized discounts**, **loyalty perks**, and **re-engagement offers** to reduce churn and **improve Lifetime Value (LTV)**.
+
 
   
 
