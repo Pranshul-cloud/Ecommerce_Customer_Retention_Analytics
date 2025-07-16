@@ -109,3 +109,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
   #### Samply Query
  ![Sample Query](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.1_sql.png)
+
+ ---
+
+### 8 🔍 Insights Deep Dive
