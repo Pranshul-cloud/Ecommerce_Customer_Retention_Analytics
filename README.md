@@ -127,6 +127,8 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 - **Retention Rate**: 33.33%  
 - **Best Retention Strategy**: Discount
 
+- 
+
 
 
 - ![b](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.3_customer_churn_segment.png)
@@ -145,6 +147,8 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 - **High Churn Rate Alone**: 23.29%  
 - **Best Performing Season (Retention)**: Fall – 48.89% Low Churn  
 - **Worst Performing Region (Churn)**: South America – 52.03% Churn (High + Medium)
+
+- 
   
 
 
