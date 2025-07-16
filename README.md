@@ -39,7 +39,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-####  Segment 1: retention_strategy_impact
+####  Segment 4.1: retention_strategy_impact
 
 **Purpose:** Evaluate how different retention strategies are performing by comparing churn rates and customer value across segments.
 
@@ -51,7 +51,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-####  Segment 2: Churn by segments
+####  Segment 4.2: Churn by segments
 
 **Purpose:** Identify specific geographic and behavioral patterns driving elevated churn levels.
 
@@ -63,7 +63,7 @@ This is the unified behavioral and transactional database used across all analys
 
 
 
-####  Segment 3: Revenue at Risk
+####  Segment 4.3: Revenue at Risk
 
 **Purpose:** Quantify potential financial loss based on churn probability and customer lifetime value.
 
@@ -141,7 +141,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ---
 
-## ✅ 9 Recommendations
+##  7 Recommendations
 
 - **Problem:** The **discount strategy** yields a higher average lifetime value (**~₹5,500**) compared to the overall average (**₹5,000**), yet it remains **underleveraged**.  
   **Impact:** Retention rate is stuck at **33.33%**, indicating **missed revenue opportunities** and weakened customer loyalty.  
