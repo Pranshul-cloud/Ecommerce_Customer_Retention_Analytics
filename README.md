@@ -102,21 +102,7 @@ This is the unified behavioral and transactional database used across all analys
 
 ---
 
+### 7 🧮 SQL-Driven Data Extraction & Segmentation
+Purpose: This segment outlines how SQL was used to extract targeted data for churn insights, retention impact analysis, and revenue risk modeling. Structured queries enabled focused filtering, segmentation, and aggregation to align directly with business objectives.
 
-📁 Segment 4: SQL Queries – Retention & Churn Analysis
-📌 Purpose: Houses all SQL logic used to extract retention drivers, segment churn risk, and calculate revenue impact.
-📂 View File → sql_queries.sql
-
-🔹 Sample Query – Business Objective 1: Identify Retention Drivers
-
-sql
-Copy
-Edit
--- Business Objective 1 - Identify key drivers behind the decrease in retention rate
--- Required Dataset/Table - churn_by_segment_summary
-SELECT Retention_Strategy,
-       CHURN_FLAG,
-       COUNT(*) AS CUSTOMER_COUNT,
-       AVG(LIFETIME_VALUE)
-FROM customer_retention_data
-GROUP BY Retention_Strategy, CHURN_FLAG;
+📄 Complete Query File: sql_queries.sql <!-- 🔁 Paste your actual repo link here -
