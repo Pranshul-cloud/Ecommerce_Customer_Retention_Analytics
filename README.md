@@ -4,8 +4,10 @@
 ByteCart, a mid-scale e-commerce brand, is experiencing rising churn and declining repeat purchases, resulting in significant revenue loss and weakened customer loyalty.  
 This project uses SQL-driven segmentation and churn modeling to identify churn patterns, quantify revenue at risk, and evaluate retention strategies, enabling data-backed decisions to improve retention and maximize lifetime value.    
  
-### 2️ ❓ Problem Statement  
-ByteCart has experienced a decline in customer retention, with fewer users making repeat purchases and a rising percentage disengaging shortly after their first transaction. The churn rate has increased notably across key segments, directly affecting average customer lifetime value. This erosion in user loyalty is contributing to decreased revenue and weakening overall profitability — prompting the need for a focused analysis to identify root causes and guide strategic interventions.
+---
+
+### 2  Exevutive Summary
+ByteCart, a growing e-commerce brand, faced a sharp decline in customer retention, with a **churn rate of 52.07%** and a **low overall retention rate of 33.33%**, putting long-term revenue and loyalty at risk. This project used SQL-powered analysis to identify churn drivers, assess strategy performance, and quantify revenue exposure — enabling ByteCart to act on high-impact retention lever
 
 ---
 
