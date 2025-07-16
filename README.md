@@ -1,9 +1,8 @@
 # 📊 E-commerce Customer Retention Analytics: Loyalty, Churn, and Revenue Impact
 
 ### 1️ 📌 Project Background 
-ByteCart, a mid-scale e-commerce brand, is facing rising customer churn and declining repeat purchases—leading to revenue loss and weakened loyalty.  
-This project applies SQL-driven segmentation and churn modeling to identify key churn drivers, quantify revenue at risk, and assess retention strategies—enabling actionable insights to maximize customer lifetime value (LTV) and improve retention outcomes.
- ---
+ByteCart, a mid-scale e-commerce brand, is experiencing rising churn and declining repeat purchases, resulting in significant revenue loss and weakened customer loyalty.  
+This project uses SQL-driven segmentation and churn modeling to identify churn patterns, quantify revenue at risk, and evaluate retention strategies, enabling data-backed decisions to improve retention and maximize lifetime value.    
  
 ### 2️ ❓ Problem Statement  
 ByteCart has experienced a decline in customer retention, with fewer users making repeat purchases and a rising percentage disengaging shortly after their first transaction. The churn rate has increased notably across key segments, directly affecting average customer lifetime value. This erosion in user loyalty is contributing to decreased revenue and weakening overall profitability — prompting the need for a focused analysis to identify root causes and guide strategic interventions.
