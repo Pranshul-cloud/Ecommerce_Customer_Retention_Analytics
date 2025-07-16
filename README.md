@@ -106,4 +106,6 @@ This is the unified behavioral and transactional database used across all analys
 Purpose: This segment outlines how SQL was used to extract targeted data for churn insights, retention impact analysis, and revenue risk modeling. Structured queries enabled focused filtering, segmentation, and aggregation to align directly with business objectives.
 
 📄 [Complete Query File: sql_queries.sql](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/02_data_extraction_sql/sql_queries)
-### ![Sample Query](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/Screenshot%202025-07-16%20075138.png)
+
+### Samply Query
+ ![Sample Query](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/Screenshot%202025-07-16%20075138.png)
