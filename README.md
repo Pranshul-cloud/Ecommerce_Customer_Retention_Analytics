@@ -150,8 +150,6 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 
 
-
-
 ![a](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/03_visuals/3.4_revenue_at_risk.png)
 ## 💡 Business Insights
 
