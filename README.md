@@ -168,7 +168,7 @@ Purpose: This segment outlines how SQL was used to extract targeted data for chu
 
 ---
 
-## ✅ Recommendations
+## ✅ 9 Recommendations
 
 - **Problem:** The **discount strategy** yields a higher average lifetime value (**~₹5,500**) compared to the overall average (**₹5,000**), yet it remains **underleveraged**.  
   **Impact:** Retention rate is stuck at **33.33%**, indicating **missed revenue opportunities** and weakened customer loyalty.  
