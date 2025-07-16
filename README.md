@@ -99,3 +99,24 @@ This is the unified behavioral and transactional database used across all analys
 - **Strategic Angle:** Prioritizes high-value churn-risk customers for retention focus to protect revenue.
 
 📂 [View Segment → `revenue_at_risk.csv`](https://github.com/Pranshul-cloud/Ecommerce_Customer_Retention_Analytics/blob/main/01_data/1.4_revenue_at_risk.csv)
+
+---
+
+
+📁 Segment 4: SQL Queries – Retention & Churn Analysis
+📌 Purpose: Houses all SQL logic used to extract retention drivers, segment churn risk, and calculate revenue impact.
+📂 View File → sql_queries.sql
+
+🔹 Sample Query – Business Objective 1: Identify Retention Drivers
+
+sql
+Copy
+Edit
+-- Business Objective 1 - Identify key drivers behind the decrease in retention rate
+-- Required Dataset/Table - churn_by_segment_summary
+SELECT Retention_Strategy,
+       CHURN_FLAG,
+       COUNT(*) AS CUSTOMER_COUNT,
+       AVG(LIFETIME_VALUE)
+FROM customer_retention_data
+GROUP BY Retention_Strategy, CHURN_FLAG;
